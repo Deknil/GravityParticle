@@ -7,9 +7,9 @@
     <a href="https://discord.gg/BwSuTdEGJ4" style="text-decoration: none;">
          <img alt="Discord" src="https://img.shields.io/discord/1174285070761197599.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2">
     </a>
-    <img alt="GitHub License" src="https://img.shields.io/github/license/Deknil/SandSimulation">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/Deknil/SandSimulation">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Deknil/SandSimulation">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/Deknil/GameOfLife">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/Deknil/GameOfLife">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Deknil/GameOfLife">
 </p>
 
 Another attempt to do something unusual. Now this is something like a cellular automaton, the so-called “Game of Life”, only here no one “dies” or is “born” =)
