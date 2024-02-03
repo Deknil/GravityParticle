@@ -14,7 +14,7 @@ public class Window extends JFrame implements Runnable {
      * Initializes the window with the necessary properties.
      */
     public Window() {
-        setTitle("The game of life");
+        setTitle("Gravity Particle");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         canvas = new Canvas();

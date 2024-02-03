@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>The Game Of Life</h1>
+    <h1>Gravity Particle</h1>
 </div>
 
 <p align="center">
@@ -7,9 +7,9 @@
     <a href="https://discord.gg/BwSuTdEGJ4" style="text-decoration: none;">
          <img alt="Discord" src="https://img.shields.io/discord/1174285070761197599.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2">
     </a>
-    <img alt="GitHub License" src="https://img.shields.io/github/license/Deknil/GameOfLife">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/Deknil/GameOfLife">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Deknil/GameOfLife">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/Deknil/GravityParticle">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/Deknil/GravityParticle">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Deknil/GravityParticle">
 </p>
 
 Another attempt to do something unusual. Now this is something like a cellular automaton, the so-called “Game of Life”, only here no one “dies” or is “born” =)
@@ -26,13 +26,13 @@ To run the game of life project on your local machine, follow these steps:
 Clone the Repository:
 
 ```bash
-git clone https://github.com/Deknil/GameOfLife.git
+git clone https://github.com/Deknil/GravityParticle.git
 ```
 
 Navigate to the Project Directory:
 
 ```bash
-cd GameOfLife
+cd GravityParticle
 ```
 
 Compile and Run the Application:
