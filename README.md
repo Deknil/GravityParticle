@@ -21,7 +21,7 @@ Another attempt to do something unusual. Now this is something like a cellular a
 
 
 ## Installation
-To run the game of life project on your local machine, follow these steps:
+To run the Gravity Particle project on your local machine, follow these steps:
 
 Clone the Repository:
 
